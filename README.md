@@ -2,7 +2,7 @@
 
 Functionality Explained:
 
-WordVeil is a Google Chrome extension that, as of this version, takes in a local Google-AccountKey-Specfific word list and replaces these selected words with a line of dashes "-----".
+WordVeil is a Google Chrome extension that, as of this version, takes in a local Google Account-Key specific word list and replaces these selected words with a line of dashes "-----".
 To edit the word list, users can click one of two buttons: Enter Words Here and Remove Word Here.
 
 Using the Enter Words Here button, users can input multiple words of their choosing to be blocked by our extension (each word must be separated by a comma and spaces aren't allowed at this time).
