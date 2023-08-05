@@ -13,12 +13,15 @@ When a word is entered, users need not worry about case sensitivity, as we accou
 
 In its current phase, we have a lot we plan to improve.
 Some of these include:
+-   Uploading this extension to the Google Chrome Store for more effcicient updates and manipulation
 -   How we store words (perhaps another data structure like a hashmap to access the words more effectively)
 -   Being able to REMOVE multiple words
 -   How we block words (we plan on using HTML/CSS to add blur functionality as opposed to replacing the characters; perhaps both incase the blur is removed
 -   Adding a Master login to the extension's word list
 -   Having functionality to transfer words from one instance to another (a txt file for example)
 -   And many more!
+
+With functionality out of the way, here's how to properly install this client-side extension as of now:
 
 WordViel will have to be setup locally as publishing a extension to google play store that has permission to use user browser storage and scripting can take weeks or even months for the google store employees to review in case of malware.
 
