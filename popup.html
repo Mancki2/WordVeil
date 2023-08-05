@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="style.css">
+    <body>
+        <h1 id="Title"> WordVeil</h1>
+
+ 
+        <button id = "getButton", style=" border-radius: 20px; background-color: rgb(113, 181, 245); border-color:rgb(113, 181, 245);color: black;">Enter more words here</button>
+        <br>
+        <br>
+        <button id = "listPopup", style= "border-radius: 20px; background-color: rgb(113, 181, 245); border-color:rgb(113, 181, 245);color: black;"> See list of words here      </button>
+        <br>
+        <br>
+        <button id = "refreshPage" >
+        <img src ="refreshICON.png" height="30" width="30">
+        </button>
+        <input type = "checkbox" id = "switch">
+        <br>
+        <br>
+        <button id = "removeButton", style= "border-radius: 20px; background-color: rgb(113, 181, 245); border-color:rgb(113, 181, 245);color: black;"> Enter word to remove      </button>
+        <br>
+        <br>
+
+        <div style="display: none" id="wordList">
+            <label>List of all words being blocked</label>
+
+            <ul id = "blockedWords">
+                <li>firstWord</li>
+            </ul>
+
+        </div>
+        
+        <script type = "text/javascript" src = "data.js"></script>
+        <script type = "text/javascript" src = "popup.js"></script>
+        
+    </body>
+</html>

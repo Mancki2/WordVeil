@@ -1,0 +1,35 @@
+@font-face {
+  src: url(Gugi-Regular.ttf);
+  font-family: Gugi-Regular;
+}
+h1 {
+  font-family: Gugi-Regular;
+  border-bottom: 3px solid rgb(151, 209, 253);
+  border-radius: 1%;
+} 
+
+label{
+  font-family: verdana, arial;
+  
+}
+
+body{
+  margin: 20px;
+}
+
+refreshPage{ 
+  position:relative; 
+}
+
+
+input[type = checkbox] {
+  transform: scale(3.5);
+  position: relative;
+  left: 28px;
+  bottom: 7px;
+
+}
+button{
+  font-family: veranda, arial;
+  
+}
