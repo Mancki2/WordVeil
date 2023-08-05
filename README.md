@@ -1,7 +1,7 @@
 # WORDVEIL
 WordViel will have to be setup locally as publishing a extension to google play store that has permission to use user browser storage and scripting can take weeks or even months for the google store employees to review in case of malware.
 
-If reading this from text file and not seeing images check: https://github.com/Luisbow123/WORDVEIL
+If reading this from text file and not seeing images check: [https://github.com/Luisbow123/WORDVEIL](https://github.com/Mancki2/WordVeil)
 
 HOW TO SETUP WordViel:
 
@@ -10,8 +10,6 @@ HOW TO SETUP WordViel:
 2. Ensure Develper mode toggle is activated:
    
 ![image](https://github.com/Luisbow123/WORDVEIL/assets/55300466/f340f35c-bd96-4b6b-879a-93bef54f55aa)
-
-
 
 
 
@@ -35,4 +33,4 @@ HOW TO SETUP WordViel:
 ![image](https://github.com/Luisbow123/WORDVEIL/assets/55300466/2e35f2da-005e-4ba2-8d4c-5370293bcf84)
 
 
-
+Happy Blurring!
